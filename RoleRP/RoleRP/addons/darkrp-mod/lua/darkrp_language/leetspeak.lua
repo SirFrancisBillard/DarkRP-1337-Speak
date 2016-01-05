@@ -71,9 +71,9 @@ local my_language = {
 	owner_poor = "Th3 %s 0wn3r is t00 p00r t0 subsidiz3 this sal3!",
 
 	-- P0lic3
-	Want3d_t3xt = "Want3d!",
-	want3d = "Want3d by P0lic3!\nR3as0n: %s",
-	y0ur3_arr3st3d = "Y0u hav3 b33n arr3st3d f0r %d s3c0nds!",
+	Wanted_text = "Want3d!",
+	wanted = "Wanted by P0lic3!\nR3as0n: %s",
+	youre_arrested = "Y0u hav3 b33n arr3st3d f0r %d s3c0nds!",
 	y0ur3_arr3st3d_by = "Y0u hav3 b33n arr3st3d by %s.",
 	y0ur3_unarr3st3d_by = "Y0u w3r3 unarr3st3d by %s.",
 	h3s_arr3st3d = "%s has b33n arr3st3d f0r %d s3c0nds!",
